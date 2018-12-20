@@ -1,0 +1,13 @@
+algoritmo para cierre de caja por vendedor
+	buscar ultimo login
+	buscar ventas desde el ultimo login hasta tiempo actual
+	mostart el total vendido y lo que debe haber en caja
+	añadir al historial
+
+Algoritmo para cierre de caja al dia
+	al iniciar la app buscar ultimo login, sino esta seteado, agregar
+
+	Al cerrar caja en el dia buscar ese ultimo login, buscar los items desde ese ultimo login
+	hacer cuentas y mostrar cuanto debe haber
+	añadir al historial
+	actualizar la variable del ultimo login
